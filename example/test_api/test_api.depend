@@ -1,0 +1,531 @@
+# depslib dependency file v1.0
+1546772091 source:d:\_repoz\forexprostools-cpp-api\lib\xtime_cpp\src\xtime.cpp
+	"xtime.hpp"
+	"stdio.h"
+	"string.h"
+	<ctime>
+	<vector>
+
+1546772091 d:\_repoz\forexprostools-cpp-api\lib\xtime_cpp\src\xtime.hpp
+	<string>
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\adler32.c
+	"zutil.h"
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\zlib.h
+	"zconf.h"
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\zconf.h
+	<stddef.h>
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\compress.c
+	"zlib.h"
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\crc32.c
+	<stdio.h>
+	"zutil.h"
+	"crc32.h"
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\crc32.h
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\deflate.c
+	"deflate.h"
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\deflate.h
+	"zutil.h"
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\gzclose.c
+	"gzguts.h"
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\gzguts.h
+	<stdio.h>
+	"zlib.h"
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<fcntl.h>
+	<stddef.h>
+	<io.h>
+	<windows.h>
+	<errno.h>
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\gzlib.c
+	"gzguts.h"
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\gzread.c
+	"gzguts.h"
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\gzwrite.c
+	"gzguts.h"
+	<stdarg.h>
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\inftrees.h
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\inflate.h
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\inffast.h
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\inffixed.h
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1546525809 d:\_repoz\forexprostools-cpp-api\lib\zlib\trees.h
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\uncompr.c
+	"zlib.h"
+
+1546525809 source:d:\_repoz\forexprostools-cpp-api\lib\zlib\zutil.c
+	"zutil.h"
+	"gzguts.h"
+	<stdlib.h>
+
+1546896442 source:d:\_repoz\forexprostools-cpp-api\example\test_api\main.cpp
+	<iostream>
+	<iomanip>
+	<ForexprostoolsApi.hpp>
+
+1546898609 d:\_repoz\forexprostools-cpp-api\include\forexprostoolsapi.hpp
+	<curl/curl.h>
+	<gzip/decompress.hpp>
+	<nlohmann/json.hpp>
+	<xtime.hpp>
+	<thread>
+	<string>
+	<vector>
+	<ForexprostoolsApiEasy.hpp>
+
+1546522840 d:\_repoz\forexprostools-cpp-api\lib\curl-7.60.0-win64-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1546522840 d:\_repoz\forexprostools-cpp-api\lib\curl-7.60.0-win64-mingw\include\curl\curlver.h
+
+1546522840 d:\_repoz\forexprostools-cpp-api\lib\curl-7.60.0-win64-mingw\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1546522840 d:\_repoz\forexprostools-cpp-api\lib\curl-7.60.0-win64-mingw\include\curl\easy.h
+
+1546522840 d:\_repoz\forexprostools-cpp-api\lib\curl-7.60.0-win64-mingw\include\curl\multi.h
+	"curl.h"
+
+1546522840 d:\_repoz\forexprostools-cpp-api\lib\curl-7.60.0-win64-mingw\include\curl\typecheck-gcc.h
+
+1546525573 d:\_repoz\forexprostools-cpp-api\lib\gzip-hpp\include\gzip\decompress.hpp
+	<gzip/config.hpp>
+	<zlib.h>
+	<limits>
+	<stdexcept>
+	<string>
+
+1546525573 d:\_repoz\forexprostools-cpp-api\lib\gzip-hpp\include\gzip\config.hpp
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\json.hpp
+	<algorithm>
+	<cassert>
+	<ciso646>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<numeric>
+	<string>
+	<utility>
+	<nlohmann/json_fwd.hpp>
+	<nlohmann/detail/macro_scope.hpp>
+	<nlohmann/detail/meta/cpp_future.hpp>
+	<nlohmann/detail/meta/type_traits.hpp>
+	<nlohmann/detail/exceptions.hpp>
+	<nlohmann/detail/value_t.hpp>
+	<nlohmann/detail/conversions/from_json.hpp>
+	<nlohmann/detail/conversions/to_json.hpp>
+	<nlohmann/detail/input/input_adapters.hpp>
+	<nlohmann/detail/input/lexer.hpp>
+	<nlohmann/detail/input/parser.hpp>
+	<nlohmann/detail/iterators/primitive_iterator.hpp>
+	<nlohmann/detail/iterators/internal_iterator.hpp>
+	<nlohmann/detail/iterators/iter_impl.hpp>
+	<nlohmann/detail/iterators/iteration_proxy.hpp>
+	<nlohmann/detail/iterators/json_reverse_iterator.hpp>
+	<nlohmann/detail/output/output_adapters.hpp>
+	<nlohmann/detail/input/binary_reader.hpp>
+	<nlohmann/detail/output/binary_writer.hpp>
+	<nlohmann/detail/output/serializer.hpp>
+	<nlohmann/detail/json_ref.hpp>
+	<nlohmann/detail/json_pointer.hpp>
+	<nlohmann/adl_serializer.hpp>
+	<nlohmann/detail/macro_unscope.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\json_fwd.hpp
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\macro_scope.hpp
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\meta\cpp_future.hpp
+	<ciso646>
+	<cstddef>
+	<type_traits>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\meta\type_traits.hpp
+	<ciso646>
+	<limits>
+	<type_traits>
+	<utility>
+	<nlohmann/json_fwd.hpp>
+	<nlohmann/detail/iterators/iterator_traits.hpp>
+	<nlohmann/detail/meta/cpp_future.hpp>
+	<nlohmann/detail/meta/detected.hpp>
+	<nlohmann/detail/macro_scope.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\iterators\iterator_traits.hpp
+	<iterator>
+	<nlohmann/detail/meta/void_t.hpp>
+	<nlohmann/detail/meta/cpp_future.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\meta\void_t.hpp
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\meta\detected.hpp
+	<type_traits>
+	<nlohmann/detail/meta/void_t.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\exceptions.hpp
+	<exception>
+	<stdexcept>
+	<string>
+	<nlohmann/detail/input/position_t.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\input\position_t.hpp
+	<cstddef>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\value_t.hpp
+	<array>
+	<ciso646>
+	<cstddef>
+	<cstdint>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\conversions\from_json.hpp
+	<algorithm>
+	<array>
+	<ciso646>
+	<forward_list>
+	<iterator>
+	<map>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<nlohmann/detail/exceptions.hpp>
+	<nlohmann/detail/macro_scope.hpp>
+	<nlohmann/detail/meta/cpp_future.hpp>
+	<nlohmann/detail/meta/type_traits.hpp>
+	<nlohmann/detail/value_t.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\conversions\to_json.hpp
+	<ciso646>
+	<iterator>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<nlohmann/detail/meta/cpp_future.hpp>
+	<nlohmann/detail/meta/type_traits.hpp>
+	<nlohmann/detail/value_t.hpp>
+	<nlohmann/detail/iterators/iteration_proxy.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\iterators\iteration_proxy.hpp
+	<cstddef>
+	<string>
+	<iterator>
+	<tuple>
+	<nlohmann/detail/value_t.hpp>
+	<nlohmann/detail/meta/type_traits.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\input\input_adapters.hpp
+	<cassert>
+	<cstddef>
+	<cstring>
+	<istream>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cstdio>
+	<nlohmann/detail/macro_scope.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\input\lexer.hpp
+	<clocale>
+	<cstddef>
+	<cstdlib>
+	<cstdio>
+	<initializer_list>
+	<string>
+	<vector>
+	<nlohmann/detail/macro_scope.hpp>
+	<nlohmann/detail/input/input_adapters.hpp>
+	<nlohmann/detail/input/position_t.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\input\parser.hpp
+	<cassert>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<nlohmann/detail/exceptions.hpp>
+	<nlohmann/detail/macro_scope.hpp>
+	<nlohmann/detail/meta/is_sax.hpp>
+	<nlohmann/detail/input/input_adapters.hpp>
+	<nlohmann/detail/input/json_sax.hpp>
+	<nlohmann/detail/input/lexer.hpp>
+	<nlohmann/detail/value_t.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\meta\is_sax.hpp
+	<cstdint>
+	<utility>
+	<nlohmann/detail/meta/detected.hpp>
+	<nlohmann/detail/meta/type_traits.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\input\json_sax.hpp
+	<cstddef>
+	<string>
+	<vector>
+	<nlohmann/detail/input/parser.hpp>
+	<nlohmann/detail/exceptions.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\iterators\primitive_iterator.hpp
+	<cstddef>
+	<limits>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\iterators\internal_iterator.hpp
+	<nlohmann/detail/iterators/primitive_iterator.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\iterators\iter_impl.hpp
+	<ciso646>
+	<iterator>
+	<type_traits>
+	<nlohmann/detail/exceptions.hpp>
+	<nlohmann/detail/iterators/internal_iterator.hpp>
+	<nlohmann/detail/iterators/primitive_iterator.hpp>
+	<nlohmann/detail/macro_scope.hpp>
+	<nlohmann/detail/meta/cpp_future.hpp>
+	<nlohmann/detail/value_t.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\iterators\json_reverse_iterator.hpp
+	<cstddef>
+	<iterator>
+	<utility>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\output\output_adapters.hpp
+	<algorithm>
+	<cstddef>
+	<ios>
+	<iterator>
+	<memory>
+	<ostream>
+	<string>
+	<vector>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\input\binary_reader.hpp
+	<algorithm>
+	<array>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<nlohmann/detail/input/input_adapters.hpp>
+	<nlohmann/detail/input/json_sax.hpp>
+	<nlohmann/detail/exceptions.hpp>
+	<nlohmann/detail/macro_scope.hpp>
+	<nlohmann/detail/meta/is_sax.hpp>
+	<nlohmann/detail/value_t.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\output\binary_writer.hpp
+	<algorithm>
+	<array>
+	<cstdint>
+	<cstring>
+	<limits>
+	<nlohmann/detail/input/binary_reader.hpp>
+	<nlohmann/detail/output/output_adapters.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\output\serializer.hpp
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<type_traits>
+	<nlohmann/detail/exceptions.hpp>
+	<nlohmann/detail/conversions/to_chars.hpp>
+	<nlohmann/detail/macro_scope.hpp>
+	<nlohmann/detail/meta/cpp_future.hpp>
+	<nlohmann/detail/output/binary_writer.hpp>
+	<nlohmann/detail/output/output_adapters.hpp>
+	<nlohmann/detail/value_t.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\conversions\to_chars.hpp
+	<cassert>
+	<ciso646>
+	<cmath>
+	<cstdint>
+	<cstring>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\json_ref.hpp
+	<initializer_list>
+	<utility>
+	<nlohmann/detail/meta/type_traits.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\json_pointer.hpp
+	<cassert>
+	<numeric>
+	<string>
+	<vector>
+	<nlohmann/detail/macro_scope.hpp>
+	<nlohmann/detail/exceptions.hpp>
+	<nlohmann/detail/value_t.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\adl_serializer.hpp
+	<utility>
+	<nlohmann/detail/conversions/from_json.hpp>
+	<nlohmann/detail/conversions/to_json.hpp>
+
+1546769649 d:\_repoz\forexprostools-cpp-api\lib\json\include\nlohmann\detail\macro_unscope.hpp
+
+1546898368 d:\_repoz\forexprostools-cpp-api\include\forexprostoolsapieasy.hpp
+	<unordered_map>
+	<vector>
+	<string>
+
+1548434280 source:d:\_repoz\topocoding-api\example\test_api\main.cpp
+	<iostream>
+	<iomanip>
+	<TopocodingApi.hpp>
+
+1548434432 d:\_repoz\topocoding-api\include\topocodingapi.hpp
+	<curl/curl.h>
+	<vector>
+	<string>
+	<cmath>
+
+1548429363 d:\_repoz\topocoding-api\lib\curl-7.60.0-win64-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1548429363 d:\_repoz\topocoding-api\lib\curl-7.60.0-win64-mingw\include\curl\curlver.h
+
+1548429363 d:\_repoz\topocoding-api\lib\curl-7.60.0-win64-mingw\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1548429363 d:\_repoz\topocoding-api\lib\curl-7.60.0-win64-mingw\include\curl\easy.h
+
+1548429363 d:\_repoz\topocoding-api\lib\curl-7.60.0-win64-mingw\include\curl\multi.h
+	"curl.h"
+
+1548429363 d:\_repoz\topocoding-api\lib\curl-7.60.0-win64-mingw\include\curl\typecheck-gcc.h
+
